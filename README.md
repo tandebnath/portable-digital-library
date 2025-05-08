@@ -2,7 +2,7 @@
 
 Technologies used:
 
-![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?logo=jekyll\&logoColor=white) ![CollectionBuilder](https://img.shields.io/badge/CollectionBuilder-000000?style=for-the-badge&labelColor=gray) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black) ![Tauri](https://img.shields.io/badge/Tauri-FFC131?logo=tauri\&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust\&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black) ![CollectionBuilder](https://img.shields.io/badge/CollectionBuilder-000000?style=for-the-badge&labelColor=gray) ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?logo=jekyll&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ---
 
